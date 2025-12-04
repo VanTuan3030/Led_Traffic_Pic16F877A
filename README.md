@@ -57,7 +57,8 @@ An embedded system project simulating and controlling a 4-way traffic light syst
 * **Student:** Vo Van Tuan
 * **Student ID:** 6251020094
 * **Class:** Electronics and Telecommunications Engineering (Course 62)
-* **University:** University of Transport and Communications - HCMC Campus
+* **University:** University of Transport and Communications - HCMC Campus - UTC2
+* 
 
 ---
 *Project for the Embedded Systems course final report.*
